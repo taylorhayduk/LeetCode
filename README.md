@@ -7,4 +7,4 @@ My solutions to LeetCode Problems
 
 | # | Title | Solutions | Difficulty |
 |---| ----- | --------- | ---------- |
-|292|[Problem Name](https://leetcode.com/problems/PROBLEMNAME/)  | [JavaScript](./Algorithms/problem.js) |Easy|
+|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)  | [JavaScript](./Algorithms/ReverseInteger.js) |Easy|
