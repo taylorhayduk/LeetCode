@@ -12,4 +12,5 @@ My solutions to LeetCode Problems
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)  | [JavaScript](./Algorithms/IntToRoman.js) |Medium|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)  | [JavaScript](./Algorithms/RemoveElement.js) |Easy|
 |42|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)  | [JavaScript](./Algorithms/FirstMissingPositive.js) |Hard|
+|131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)  | [JavaScript](./Algorithms/PalindromePartitioning.js) |Medium|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)  | [JavaScript](./Algorithms/ContainsDuplicateII.js) |Easy|
