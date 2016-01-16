@@ -10,11 +10,3 @@ var rangeBitwiseAnd = function(m, n) {
   }
   return n << i;
 };
-
-console.log(rangeBitwiseAnd(5,7));
-
-
-0111
-1000
-1001
-
