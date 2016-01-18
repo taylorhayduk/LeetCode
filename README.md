@@ -12,9 +12,10 @@ My solutions to LeetCode Problems
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)  | [JavaScript](./Algorithms/ReverseInteger.js) |Easy|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)  | [JavaScript](./Algorithms/IsPalindrome.js) |Easy|
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)  | [JavaScript](./Algorithms/IntToRoman.js) |Medium|
-|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)  | [JavaScript](./Algorithms/ValidParentheses.js) |Medium|
+|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)  | [JavaScript](./Algorithms/ValidParentheses.js) |Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)  | [JavaScript](./Algorithms/RemoveElement.js) |Easy|
 |42|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)  | [JavaScript](./Algorithms/FirstMissingPositive.js) |Hard|
 |131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)  | [JavaScript](./Algorithms/PalindromePartitioning.js) |Medium|
+|165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)  | [JavaScript](./Algorithms/CompareVersionNumbers.js) |Easy|
 |201|[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)  | [JavaScript](./Algorithms/BitwiseANDofNumbersRange.js) |Medium|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)  | [JavaScript](./Algorithms/ContainsDuplicateII.js) |Easy|
