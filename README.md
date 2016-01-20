@@ -17,6 +17,8 @@ My solutions to LeetCode Problems
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)  | [JavaScript](./Algorithms/ImplementStrStr.js) |Easy|
 |42|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)  | [JavaScript](./Algorithms/FirstMissingPositive.js) |Hard|
 |131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)  | [JavaScript](./Algorithms/PalindromePartitioning.js) |Medium|
+|139|[Word Break](https://leetcode.com/problems/word-break/)  | [JavaScript](./Algorithms/WordBreak.js) |Medium|
+
 |165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)  | [JavaScript](./Algorithms/CompareVersionNumbers.js) |Easy|
 |201|[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)  | [JavaScript](./Algorithms/BitwiseANDofNumbersRange.js) |Medium|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)  | [JavaScript](./Algorithms/ContainsDuplicateII.js) |Easy|
