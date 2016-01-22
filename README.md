@@ -22,3 +22,4 @@ My solutions to LeetCode Problems
 |165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)  | [JavaScript](./Algorithms/CompareVersionNumbers.js) |Easy|
 |201|[Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range/)  | [JavaScript](./Algorithms/BitwiseANDofNumbersRange.js) |Medium|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/)  | [JavaScript](./Algorithms/ContainsDuplicateII.js) |Easy|
+|326|[Power of Three](https://leetcode.com/problems/power-of-three/)  | [JavaScript](./Algorithms/PowerOfThree.js) |Easy|
