@@ -16,6 +16,7 @@ My solutions to LeetCode Problems
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)  | [JavaScript](./Algorithms/RemoveElement.js) |Easy|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)  | [JavaScript](./Algorithms/ImplementStrStr.js) |Easy|
 |42|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)  | [JavaScript](./Algorithms/FirstMissingPositive.js) |Hard|
+|60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)  | [JavaScript](./Algorithms/PermutationSequence.js) |Medium|
 |131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)  | [JavaScript](./Algorithms/PalindromePartitioning.js) |Medium|
 |139|[Word Break](https://leetcode.com/problems/word-break/)  | [JavaScript](./Algorithms/WordBreak.js) |Medium|
 |165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)  | [JavaScript](./Algorithms/CompareVersionNumbers.js) |Easy|
