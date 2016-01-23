@@ -9,6 +9,7 @@ My solutions to LeetCode Problems
 |---| ----- | --------- | ---------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)  | [JavaScript](./Algorithms/TwoSum.js) |Medium|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)  | [JavaScript](./Algorithms/AddTwoNumbers.js) |Medium|
+|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)  | [JavaScript](./Algorithms/LongestSubstringWithoutRepeatingCharacters.js) |Medium|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)  | [JavaScript](./Algorithms/ReverseInteger.js) |Easy|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)  | [JavaScript](./Algorithms/IsPalindrome.js) |Easy|
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)  | [JavaScript](./Algorithms/IntToRoman.js) |Medium|
