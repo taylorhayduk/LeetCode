@@ -15,6 +15,7 @@ My solutions to LeetCode Problems
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)  | [JavaScript](./Algorithms/IntToRoman.js) |Medium|
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)  | [JavaScript](./Algorithms/LongestCommonPrefix.js) |Easy|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)  | [JavaScript](./Algorithms/ValidParentheses.js) |Easy|
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)  | [JavaScript](./Algorithms/MergeTwoSortedLists.js) |Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)  | [JavaScript](./Algorithms/RemoveElement.js) |Easy|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)  | [JavaScript](./Algorithms/ImplementStrStr.js) |Easy|
 |42|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)  | [JavaScript](./Algorithms/FirstMissingPositive.js) |Hard|
