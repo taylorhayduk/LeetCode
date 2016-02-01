@@ -18,6 +18,7 @@ My solutions to LeetCode Problems
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)  | [JavaScript](./Algorithms/MergeTwoSortedLists.js) |Easy|
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)  | [JavaScript](./Algorithms/RemoveElement.js) |Easy|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)  | [JavaScript](./Algorithms/ImplementStrStr.js) |Easy|
+|38|[Count and Say](https://leetcode.com/problems/count-and-say/)  | [JavaScript](./Algorithms/CountandSay.js) |Easy|
 |42|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/)  | [JavaScript](./Algorithms/FirstMissingPositive.js) |Hard|
 |60|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/)  | [JavaScript](./Algorithms/PermutationSequence.js) |Medium|
 |131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)  | [JavaScript](./Algorithms/PalindromePartitioning.js) |Medium|
