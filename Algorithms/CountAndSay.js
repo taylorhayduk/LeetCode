@@ -25,6 +25,3 @@ var countAndSay = function(n) {
   }
   return result;
 };
-
-
-console.log(countAndSay(2));
